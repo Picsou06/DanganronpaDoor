@@ -1,0 +1,6 @@
+name : Danganronpa_Door
+author: picsou
+version: 1.0
+api-version: 1.19
+main : fr.picsou.danganronpadoor.Main
+description: Plugin de portes pour Danganronpa
